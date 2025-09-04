@@ -1,0 +1,20 @@
+{
+  // Tema de cores (use o nome exato do tema instalado)
+  "workbench.colorTheme": "Dracula Official",
+
+  // Tema de ícones (ex.: material-icon-theme, vscode-icons, etc.)
+  "workbench.iconTheme": "material-icon-theme",
+
+  // Fonte do editor
+  "editor.fontFamily": "Fira Code, Cascadia Code, Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 14,
+
+  // Fonte do terminal integrado (opcional)
+  "terminal.integrated.fontFamily": "Fira Code",
+
+  // (Opcional) Ajustes finos de cores por workspace
+  // "workbench.colorCustomizations": {
+  //   "editor.lineHighlightBackground": "#ffffff22"
+  // }
+}
